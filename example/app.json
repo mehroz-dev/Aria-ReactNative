@@ -1,0 +1,22 @@
+{
+  "name": "react-native-bob-mono-example",
+  "displayName": "BobMono Example",
+  "expo": {
+    "name": "react-native-bob-mono-example",
+    "slug": "react-native-bob-mono-example",
+    "description": "Example app for react-native-bob-mono",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
